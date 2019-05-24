@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Billard-Manager</string>
+    <string name="title_activity_player__setup">Player_Setup</string>
+    <string name="title_activity_lool">lool</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_logging_setup">LoggingSetup</string>
+    <string name="title_activity_list_balls">ListBalls</string>
+</resources>
