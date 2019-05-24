@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "org.sumpi.billard.billard_manager"
+        applicationId "org.sumpi.risky15"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
