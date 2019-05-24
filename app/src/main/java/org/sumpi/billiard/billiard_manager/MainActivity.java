@@ -182,8 +182,8 @@ public class MainActivity extends AppCompatActivity {
      * This methods adds Player to the game
      */
     private void createPlayer(){
-        Player p1 = new Player("Felix");
-        Player p2 = new Player("Vincent");
+        Player p1 = new Player("Player 1");
+        Player p2 = new Player("Player 2");
 
         if( GameManager.returnPlayerList().contains(p1)){
         }
